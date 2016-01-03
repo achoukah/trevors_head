@@ -1,1 +1,16 @@
+html {
+  font-size: 100%;
+}
+body {
+  background: $brand-secondary;
+  color: $brand-tertiary;
+  font-family: $font-body;
+  font-size: 1em;
 
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+.container {
+  flex: 1;
+}

@@ -5,8 +5,7 @@ $icon-font-path:        "../fonts/";
 $main-sm-columns:       12;
 $sidebar-sm-columns:    4;
 
-// Colors
-$brand-primary:         #27ae60;
+
 
 // VARIABLES
 
@@ -50,3 +49,13 @@ $brand-primary:         #27ae60;
   $li:                  #007bb6;
   $gh:                  #4183c4;
   $tu:                  #35465c;
+
+
+  $brand-primary:       #a21419;
+  $brand-secondary:     #3b3130;
+  $brand-tertiary:      #8a786f;
+
+
+// FONTS
+
+  $font-body: 'Rubik', 'Helvetica', 'Helvetica Neue', Arial, sans-serif;
